@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AstraPharmacy ERP - Phase 10 (Final)",
+  "description": "Enterprise-grade Pharmacy Management System. Phase 10: Performance Optimization (Caching, Job Queues, Advanced Query Tuning).",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
